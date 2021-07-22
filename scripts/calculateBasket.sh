@@ -8,8 +8,8 @@ curl -X POST http://localhost:8080/calculator/calculate-basket \
 #  "customerId":"customer-1",
 #  "pricedBasketEntries":
 #  {
-#    "article-2":10.2870,
-#    "article-1":11.9790
+#    "article-2":10.28,
+#    "article-1":11.97
 #  },
-#  "totalAmount":23.2660
+#  "totalAmount":23.26
 #}
